@@ -24,5 +24,5 @@ Week 2:
   - Produced a quickread version of the Coursework document and the Rubric.
   
 - Cameron
-  - Overlooking the data for a further understanding.
+  - Overlooking and anlysed the data for a further understanding.
   - Started creating a new Excel document to record data in the representation of charts. 
