@@ -22,3 +22,7 @@ Week 2:
 - Shane
   - Identified trends, and anlysed the data present (weather).
   - Produced a quickread version of the Coursework document and the Rubric.
+  
+- Cameron
+  - Overlooking the data for a further understanding.
+  - Started creating a new Excel document to record data in the representation of charts. 
