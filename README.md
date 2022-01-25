@@ -9,7 +9,10 @@ Updated Data excel spreadsheets to Git.
 Accepted all invites to Git. (Except one)
 
 - Luke C (2)
-Cleaned up spreadsheet "Employment Rates by Graduate Type".
+Luke C baseline of Python Programming to use for the rest of the team for final presentation.
 
 - Niamh
 Added weekly skills document to git.
+Provided Dataset and identified trends for the teams.
+
+- Shane
