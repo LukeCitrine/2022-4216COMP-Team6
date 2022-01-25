@@ -1,8 +1,7 @@
-# csws-week1
-week1 lab
-
-week1.py - added text to the file,
-
-This is a test update from Laura!
-
-Can confirm that I can see your test Branch, now, Laura.
+# Notes for the team.
+Tests confirmed.
+---
+Add notes to entire team here (as well as commit texts).
+Week 2:
+Added planning branch and meeting minutes to it.
+Updated Data excel spreadsheets to Git.
