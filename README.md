@@ -14,5 +14,6 @@ Luke C baseline of Python Programming to use for the rest of the team for final 
 - Niamh
 Added weekly skills document to git.
 Provided Dataset and identified trends for the teams.
+Started making notes for possible points to include in the specification document.
 
 - Shane
