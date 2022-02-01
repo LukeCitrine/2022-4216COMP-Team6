@@ -87,24 +87,24 @@ Week 3: (LUKE APOINTED LEADER)
   - Did some programming.
 
 - Niamh
- - Got the larger data file from Luke Curren (and uploaded on github)
- - Cleaned the Data with help from Niamh, and noticed their relationships because of this.
- - Joined the tables together, to allow for the validation of relationships in the data.
- - Build enetity relationship database, which will be added by Niamh to the Specification document in the future.
- - Split the data present into a 6 way for the 6 team members -- 19 years each.
+  - Got the larger data file from Luke Curren (and uploaded on github)
+  - Cleaned the Data with help from Niamh, and noticed their relationships because of this.
+  - Joined the tables together, to allow for the validation of relationships in the data.
+  - Build enetity relationship database, which will be added by Niamh to the Specification document in the future.
+  - Split the data present into a 6 way for the 6 team members -- 19 years each.
 
 - Shane
-  - DID NOT ATTEND. NAUGHTY BOY.
+  - DID NOT ATTEND.
 
 - Cameron
   - Proof read documents.
   
 - Laura
- - Got the larger data file from Luke Curren (and uploaded on github)
- - Cleaned the Data with help from Niamh, and noticed their relationships because of this.
- - Joined the tables together, to allow for the validation of relationships in the data.
- - Build enetity relationship database, which will be added by Niamh to the Specification document in the future.
- - Split the data present into a 6 way for the 6 team members -- 19 years each.
+  - Got the larger data file from Luke Curren (and uploaded on github)
+  - Cleaned the Data with help from Niamh, and noticed their relationships because of this.
+  - Joined the tables together, to allow for the validation of relationships in the data.
+  - Build enetity relationship database, which will be added by Niamh to the Specification document in the future.
+  - Split the data present into a 6 way for the 6 team members -- 19 years each.
 
 
 FOR NEXT WEEK:
@@ -116,32 +116,42 @@ Analysed the data already, is, telling us, fundementals.
 Code and variables, ect.
 
 
-6 WAY SPLIT
+- 6 WAY SPLIT
 --
-1900 - 1918 - Luke Cit (217 entries)
-1919 - 1937 - Shane (217 entries)
-1938 - 1956 - Luke Curren (217 entries)
-1957 - 1975 - Laura (217 entries)
-1976 - 1994 - Niamh (217 entries)
-1995 - 2013 - Cameron (214 entries)
+  - 1900 - 1918 - Luke Cit (217 entries)
+  - 1919 - 1937 - Shane (217 entries)
+  - 1938 - 1956 - Luke Curren (217 entries)
+  - 1957 - 1975 - Laura (217 entries)
+  - 1976 - 1994 - Niamh (217 entries)
+  - 1995 - 2013 - Cameron (214 entries)
 
 
 Week 4: (LUKE APOINTED LEADER)
+
+
+- FOR NEXT WEEK:
+  --
+  - Look at data -- look for patterns, put a script around it; this is what we found.
+  - This data, how it relates to "x". 
+  - Review afterwards, should be simular -- go with whichever one is clearer, template forward.
+  - At that point, full woprking model of data - see how we programme it.
+  - Analysed the data already, is, telling us, fundementals.
+  - Code and variables, ect.
+
 - Luke Citrine
-  - 
+  - Text here.
 
 - Luke Curran
-  - 
+  - Text here.
 
 - Niamh
-  -
+  - Text here.
 
 - Shane
-  -
+  - Text here.
 
 - Cameron
-  - 
+  - Text here. 
   
 - Laura
- - 
-
+  - Text here.
