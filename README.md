@@ -116,7 +116,7 @@ Analysed the data already, is, telling us, fundementals.
 Code and variables, ect.
 
 
-**6 WAY SPLIT
+6 WAY SPLIT
 --
 1900 - 1918 - Luke Cit (217 entries)
 1919 - 1937 - Shane (217 entries)
@@ -124,7 +124,7 @@ Code and variables, ect.
 1957 - 1975 - Laura (217 entries)
 1976 - 1994 - Niamh (217 entries)
 1995 - 2013 - Cameron (214 entries)
-**
+
 
 Week 4: (LUKE APOINTED LEADER)
 - Luke Citrine
