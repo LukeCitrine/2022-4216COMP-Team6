@@ -75,13 +75,53 @@ Week 2: Laura Leading
 
 Week 3: (LUKE APOINTED LEADER)
 - Luke Citrine
-  -
   - Outlined the overall plan and what we needed to achieve as a team to gain commitment from each team member.
   - Co-ordinated the tasks across the team, with their agreement (synopsis under the team member's name).
   - Luke to update the minutes for this week 1.
+  - Updated the project plan and consolidated the planning documents present.
+  - Team reviews data to determine the validity of the new data that we had found.
+  - Review specification by Niamh.
 
 - Luke Curran
-  -
+  - Identified new data for the team to use.
+  - Did some programming.
+
+- Niamh
+ - Got the larger data file from Luke Curren (and uploaded on github)
+ - Cleaned the Data with help from Niamh, and noticed their relationships because of this.
+ - Joined the tables together, to allow for the validation of relationships in the data.
+ - Build enetity relationship database, which will be added by Niamh to the Specification document in the future.
+ - Split the data present into a 6 way for the 6 team members -- 19 years each.
+
+- Shane
+  - DID NOT ATTEND. NAUGHTY BOY.
+
+- Cameron
+  - Proof read documents.
+  
+- Laura
+ - Got the larger data file from Luke Curren (and uploaded on github)
+ - Cleaned the Data with help from Niamh, and noticed their relationships because of this.
+ - Joined the tables together, to allow for the validation of relationships in the data.
+ - Build enetity relationship database, which will be added by Niamh to the Specification document in the future.
+ - Split the data present into a 6 way for the 6 team members -- 19 years each.
+
+
+FOR NEXT WEEK:
+Look at data -- look for patterns, put a script around it; this is what we found.
+This data, how it relates to "x". 
+Review afterwards, should be simular -- go with whichever one is clearer, template forward.
+At that point, full woprking model of data - see how we programme it.
+Analysed the data already, is, telling us, fundementals.
+Code and variables, ect.
+
+
+Week 4: (LUKE APOINTED LEADER)
+- Luke Citrine
+  - 
+
+- Luke Curran
+  - 
 
 - Niamh
   -
@@ -90,7 +130,8 @@ Week 3: (LUKE APOINTED LEADER)
   -
 
 - Cameron
-  -
+  - 
   
 - Laura
+ - 
 
