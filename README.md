@@ -1,5 +1,13 @@
 # Notes for the team.
 Tests confirmed.
+DATA SPLIT - 6 WAY SPLIT
+--
+  - 1900 - 1918 - Luke Cit (217 entries)
+  - 1919 - 1937 - Shane (217 entries)
+  - 1938 - 1956 - Luke Curren (217 entries)
+  - 1957 - 1975 - Laura (217 entries)
+  - 1976 - 1994 - Niamh (217 entries)
+  - 1995 - 2013 - Cameron (214 entries)
 ---
 Add notes to entire team here (as well as commit texts).
 At the end of each session, there will be a review on the work that has been completed and what needs doing -- Teams open to initial investigation to determine what the data is telling us and how we are going to process that data to come to the conslusion of what Algorithms we will be using and to provide incite in how we proceed in team analysis.
@@ -107,27 +115,35 @@ Week 3: (LUKE APOINTED LEADER)
   - Split the data present into a 6 way for the 6 team members -- 19 years each.
 
 
-FOR NEXT WEEK:
-Look at data -- look for patterns, put a script around it; this is what we found.
-This data, how it relates to "x". 
-Review afterwards, should be simular -- go with whichever one is clearer, template forward.
-At that point, full woprking model of data - see how we programme it.
-Analysed the data already, is, telling us, fundementals.
-Code and variables, ect.
-
-
-- 6 WAY SPLIT
---
-  - 1900 - 1918 - Luke Cit (217 entries)
-  - 1919 - 1937 - Shane (217 entries)
-  - 1938 - 1956 - Luke Curren (217 entries)
-  - 1957 - 1975 - Laura (217 entries)
-  - 1976 - 1994 - Niamh (217 entries)
-  - 1995 - 2013 - Cameron (214 entries)
-
-
 Week 4: (LUKE APOINTED LEADER)
 
+- Luke Citrine
+  - Provided analysis of individual Dataset.
+  - Updated plans documents, and added notes to Github for the team.
+  - Organised all the files into folders on the main GitHub (2022-4216COMP-Team6).
+  - Experimented more with Python for the team.
+
+- Luke Curran
+  - Provided analysis of individual Dataset.
+  - Experimented more with Python for the team.
+
+- Niamh
+  - DID NOT ATTEND.
+
+- Shane
+  - Provided analysis of individual Dataset.
+  - Experimented more with Python for the team.
+
+- Cameron
+  - DID NOT ATTEND.
+  
+- Laura
+  - Provided analysis of individual Dataset.
+  - Lay out the analysis of each team member for better visualisation.
+  - Experimented more with Python for the team.
+
+- Ethan
+  - JUST JOINED TEAM.
 
 - FOR NEXT WEEK:
   --
@@ -137,6 +153,8 @@ Week 4: (LUKE APOINTED LEADER)
   - At that point, full woprking model of data - see how we programme it.
   - Analysed the data already, is, telling us, fundementals.
   - Code and variables, ect.
+
+Week 5: (CAMERON APOINTED LEADER)
 
 - Luke Citrine
   - Text here.
@@ -151,7 +169,10 @@ Week 4: (LUKE APOINTED LEADER)
   - Text here.
 
 - Cameron
-  - Text here. 
+  - Text here.
   
 - Laura
+  - Text here.
+
+- Ethan
   - Text here.
