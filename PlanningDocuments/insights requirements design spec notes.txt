@@ -1,0 +1,14 @@
+insights to extract:
+- specific weather condition searching (ie. daily mean temp, daily mean windspeed, daily mean visibility, etc), specific date searching (ie. all weather on may 1st, all weather during the month of august 1987), specific area searching (ie. all weather data from heathrow)
+- ability to mix and match filters, potentially (confer w luke curran as to viability)
+
+algorithms identified:
+- search algorithm that looks for specific keywords and produces a list of results based on a match
+- basic search manipulation functions (sort by, filter by, etc)
+- basic data creation/manipulation functions (generation of arrays, popping/appending data from/to arrays, sorting arrays)
+
+dataset insights:
+- the dataset was one i (niamh) was already familiar with, having used it for a-level statistics
+- the data was already fairly clean, which would make analysis easier as we didn't need to clean up the data first
+- it wasn't fully processed (i.e. there were no totals/means/averages/etc.) so there was still a decent amount of work for us to do
+- the data covered a several month period, over several geographical areas
