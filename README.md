@@ -145,16 +145,45 @@ Week 4: (LUKE APOINTED LEADER)
 - Ethan
   - JUST JOINED TEAM.
 
-- FOR NEXT WEEK:
-  --
-  - Look at data -- look for patterns, put a script around it; this is what we found.
-  - This data, how it relates to "x". 
-  - Review afterwards, should be simular -- go with whichever one is clearer, template forward.
-  - At that point, full woprking model of data - see how we programme it.
-  - Analysed the data already, is, telling us, fundementals.
-  - Code and variables, ect.
 
-Week 5: (CAMERON APOINTED LEADER)
+
+Week 5: (LUKE/LAURA LEADERS)
+
+- Luke Citrine
+  - Updated plans and documents, added notes to GitHub for the team.
+  - Experimented more with Python code and how it can be used for the individual task.
+  - Looked at producing drop-down menus and data export download.
+  - More closely explored the data specification based on the system that we'd concepted.
+
+- Luke Curran
+  - Had furthur discussions with Laura about the systems that we're going to build and how it'll function with searching and sorting, finding the data ect.
+  - Explored more about how the data/information will function on the user side of things.
+  - Starting coding/building the system that we had proposed for the data and how it would be used.
+
+- Niamh
+  - Discussed the design specification document with Luke and put across ideas of how we could use the information that we already had to work together, including what's required in the coursework spec, an overview of the system, and diagrams/images of how the system works.
+  - Did research into the other algorithms we could use.
+  - Did a bit more coding on Python.
+
+- Shane
+  - Did some more coding in Python which will be useful for the visualisation task, for the group activity.
+
+- Cameron
+  - DID NOT ATTEND.
+  
+- Laura
+  - Went through the front/back end systems with Luke Curren, to give him an idea of the system we want to build and how he and the team can help build said system, as well as discussing algorithms that can be used after the team has finished exploring them.
+  - Discussed the specification and system with Luke Curren to start a draft of the Specificiation by Niamh.
+  - Created a pre-visualisation/template of the system itself, aiming to show how it functions for the user and how it'd work.
+  - Looked at algorithms and the best ones to use based on Matplotlib as well as NetworkX; agreeing on Matplotlib for now.
+
+- Ethan
+  - DID NOT ATTEND.
+
+
+
+
+Week 6: (NIAMH APPOINTED LEADER)
 
 - Luke Citrine
   - Text here.
