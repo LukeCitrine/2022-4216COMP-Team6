@@ -1,0 +1,90 @@
+LandTemperatureMin - This shows the Minimum temperature of the Land.
+LandTemperatureMax - This shows the Maximum temperature of the Land.
+Date - Shows the date.
+
+Whilst the data shown here might look small with not a lot of columns, it allows us to be able to extract a lot of data already from the data we have (look at the design specification for examples of data we can provide, the user can grab, ect.) we have more data that we could use and add to the application or document.
+
+
+
+Luke Citrine
+- Updated plans and documents, added notes to GitHub for the team.
+- Experimented more with Python code and how it can be used for the individual task.
+- Looked at producing Drop-down menus and data export download.
+- More closely explored the data specification based on the system that we'd concepted.
+
+Luke Curren
+- Had furthur discussions with Laura about the systems that we're going to build, and how it'll function, with searching and sorting, finding the data, ect. And how it'll function on the user side of things.
+- Starting coding/building the system that we had proposed for the data and how it would be used.
+
+Niamh
+- Discussed the design specification document with Luke and put across ideas of how we could use the information that we already had to work together.
+- Did research into the other algorithms we could use.
+- Did a bit more coding in Python.
+
+Shane
+- Did some more coding in Python which could be useful for the visualisation task.
+
+Cameron
+- DID NOT ATTEND
+
+Laura
+- Went through the front/back end system with Luke Curren, to give him an idea of the system we want to built and how he and the team can help build it, as well as discussing algorithms that can be used after they've been explored by the team.
+- Discussed the specification and system with Luke to start the draft of the Specification.
+- Created a pre-visualisation/template of the system itself, and how it'd work.
+- Looked at the algorithms and best ones to use based on Matplotlib and NetworkX; agreeing on Matplotlib.
+
+Ethan
+- DID NOT ATTEND
+
+
+Actions
+- 
+Laura: Look at the graphs of the data present for the entire dataset (non-individual)
+
+
+
+
+
+====== SYSTEM DISCUSSION.
+The main landing page shows ALL the data, which will show the 113 years of data (13k+ records) present in our larger dataset.
+From here we can investigate year, season and month data records, from this we would narrow down the data based on the users specifications, allowing them to select specific year, then narrowing down to the season, then to the season.
+
+This will show the average temperature of London based on X.
+
+The algorithm/process as such is that we're going too:
+ - Read from the data file (large data set)
+ - Search criteria (year, season, month) EG: Can look at seasons for all 113 years.
+
+TOP LEVEL - Restrictive, extract data from the year.
+MID LEVEL - Seasons over 113 years.
+BOT LEVEL - Simular, but for month.
+Will still show volumes, will still show months, but will be pre year.
+
+The main landing page will cover 113 years of data (13k+ records) present in our larger dataset.
+Button 1 - Allows to search for a specific year or a range of years.
+Button 2 - Allows to search for a specific month or a range of months.
+Button 3 - Allows to search for a specific season or a range of season.
+This is a high level cut of the 13,000 records that we have present.
+
+From Button 1 (year).
+Either this will be a same screen (or a different one, what works best for programmers) when background is done this decision 
+
+
+
+CONCEPT - LOGICAL - 
+
+Spec document --
+Describe the insights into your chosen data and how data would be explored. - Using historical data throughout the years of 1900 and 2013 to be able to signify changes between the temperatures of England, and allowing the user to narrow down and pin point different seasons and months for years. Data will be explored by allowing user to select year and then narrow down the data with drop down boxes and radio boxes. Part of the design, which makes it efficient. (Changing vars in tables and data to make it easier to change, ect.)
+
+Seasons, Pie chart.
+Range of temperatures across the years, Bar chart. (Broken down).
+Years, Bar chart/Horizontal Chart. - The 113 years will be split into 16 data points, temperatures Y Axis.
+Months, Bar chart/Horizontal Chart. 
+
+Requirement (or purpose) of the application and data). - System that we're devleoping is designed too provide the end user with a functional capibility for searching data events between 1900 and 2013. This is underpinned by 3,000+ records captured during this time period by X.
+
+Also, justification of why Algorithm was chosen: Aiming at the general public, shows the data visualisation more clearly, chosen for specific audience use, customercentric. Originally considered NetworkX however it wasn't suitable for the kinds of graphs wanted to create, as such we decided to utilize Matplotlib, as it would allow us to generate the type of graphs needed.
+
+Indepth description and discussion of the system itself, and how it will work (walthrough with the system and how it works, and why it is designed how it is designed).
+
+reference: https://www.kaggle.com/yamqwe/global-climate-change-datae?select=GlobalLandTemperaturesByMajorCity.csv
