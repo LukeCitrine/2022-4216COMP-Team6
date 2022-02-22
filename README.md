@@ -1,5 +1,13 @@
 # Notes for the team.
 Tests confirmed.
+DATA SPLIT - 6 WAY SPLIT
+--
+  - 1900 - 1918 - Luke Cit (217 entries)
+  - 1919 - 1937 - Shane (217 entries)
+  - 1938 - 1956 - Luke Curren (217 entries)
+  - 1957 - 1975 - Laura (217 entries)
+  - 1976 - 1994 - Niamh (217 entries)
+  - 1995 - 2013 - Cameron (214 entries)
 ---
 Add notes to entire team here (as well as commit texts).
 At the end of each session, there will be a review on the work that has been completed and what needs doing -- Teams open to initial investigation to determine what the data is telling us and how we are going to process that data to come to the conslusion of what Algorithms we will be using and to provide incite in how we proceed in team analysis.
@@ -107,36 +115,75 @@ Week 3: (LUKE APOINTED LEADER)
   - Split the data present into a 6 way for the 6 team members -- 19 years each.
 
 
-FOR NEXT WEEK:
-Look at data -- look for patterns, put a script around it; this is what we found.
-This data, how it relates to "x". 
-Review afterwards, should be simular -- go with whichever one is clearer, template forward.
-At that point, full woprking model of data - see how we programme it.
-Analysed the data already, is, telling us, fundementals.
-Code and variables, ect.
-
-
-- 6 WAY SPLIT
---
-  - 1900 - 1918 - Luke Cit (217 entries)
-  - 1919 - 1937 - Shane (217 entries)
-  - 1938 - 1956 - Luke Curren (217 entries)
-  - 1957 - 1975 - Laura (217 entries)
-  - 1976 - 1994 - Niamh (217 entries)
-  - 1995 - 2013 - Cameron (214 entries)
-
-
 Week 4: (LUKE APOINTED LEADER)
 
+- Luke Citrine
+  - Provided analysis of individual Dataset.
+  - Updated plans documents, and added notes to Github for the team.
+  - Organised all the files into folders on the main GitHub (2022-4216COMP-Team6).
+  - Experimented more with Python for the team.
 
-- FOR NEXT WEEK:
-  --
-  - Look at data -- look for patterns, put a script around it; this is what we found.
-  - This data, how it relates to "x". 
-  - Review afterwards, should be simular -- go with whichever one is clearer, template forward.
-  - At that point, full woprking model of data - see how we programme it.
-  - Analysed the data already, is, telling us, fundementals.
-  - Code and variables, ect.
+- Luke Curran
+  - Provided analysis of individual Dataset.
+  - Experimented more with Python for the team.
+
+- Niamh
+  - DID NOT ATTEND.
+
+- Shane
+  - Provided analysis of individual Dataset.
+  - Experimented more with Python for the team.
+
+- Cameron
+  - DID NOT ATTEND.
+  
+- Laura
+  - Provided analysis of individual Dataset.
+  - Lay out the analysis of each team member for better visualisation.
+  - Experimented more with Python for the team.
+
+- Ethan
+  - JUST JOINED TEAM.
+
+
+
+Week 5: (LUKE/LAURA LEADERS)
+
+- Luke Citrine
+  - Updated plans and documents, added notes to GitHub for the team.
+  - Experimented more with Python code and how it can be used for the individual task.
+  - Looked at producing drop-down menus and data export download.
+  - More closely explored the data specification based on the system that we'd concepted.
+
+- Luke Curran
+  - Had furthur discussions with Laura about the systems that we're going to build and how it'll function with searching and sorting, finding the data ect.
+  - Explored more about how the data/information will function on the user side of things.
+  - Starting coding/building the system that we had proposed for the data and how it would be used.
+
+- Niamh
+  - Discussed the design specification document with Luke and put across ideas of how we could use the information that we already had to work together, including what's required in the coursework spec, an overview of the system, and diagrams/images of how the system works.
+  - Did research into the other algorithms we could use.
+  - Did a bit more coding on Python.
+
+- Shane
+  - Did some more coding in Python which will be useful for the visualisation task, for the group activity.
+
+- Cameron
+  - DID NOT ATTEND.
+  
+- Laura
+  - Went through the front/back end systems with Luke Curren, to give him an idea of the system we want to build and how he and the team can help build said system, as well as discussing algorithms that can be used after the team has finished exploring them.
+  - Discussed the specification and system with Luke Curren to start a draft of the Specificiation by Niamh.
+  - Created a pre-visualisation/template of the system itself, aiming to show how it functions for the user and how it'd work.
+  - Looked at algorithms and the best ones to use based on Matplotlib as well as NetworkX; agreeing on Matplotlib for now.
+
+- Ethan
+  - DID NOT ATTEND.
+
+
+
+
+Week 6: (NIAMH APPOINTED LEADER)
 
 - Luke Citrine
   - Text here.
@@ -151,7 +198,10 @@ Week 4: (LUKE APOINTED LEADER)
   - Text here.
 
 - Cameron
-  - Text here. 
+  - Text here.
   
 - Laura
+  - Text here.
+
+- Ethan
   - Text here.
