@@ -186,6 +186,36 @@ Week 5: (LUKE/LAURA LEADERS)
 Week 6: (NIAMH APPOINTED LEADER)
 
 - Luke Citrine
+  - Walked through members to the required steps for repos and rectified some issues for the rest of the team.
+
+- Luke Curran
+  - Experimented with code and aided rest of team in using Python and the code, as well as the softwares packages and the algorithms to a degree.
+
+- Niamh
+  - Had a discussion with Luke about the current draft that Laura and Luke had worked on the previous week, working on it more, and fleshing it out, updating and changing based on discussion points.
+  - Created new repo for team members to use when it came to commiting code to the same file(s) of code that we'd be using.
+  - Updated the metting minutes and planning documents to reflect what had been done in this session and what was discussed in the team, adding notes to GitHub for the team.
+
+- Shane
+  - Particpaited in meetings.
+  - Got the GitHub repository working on computer, with the aid of Luke Citrine.
+
+- Cameron
+  - Particpaited in meetings.
+  
+- Laura
+  - Had in depth discussions with Ethan and Cameron to cover the system that we'd discussed the previous weeks for the front end and the back end of the system that we'd be building, including certain design choices and filtering options and an overall view.
+  - Furthur experimented with Python Code, and looked into algorithms more with how they'll be used and how they are useful.
+
+- Ethan
+  - Experimented with code and aided rest of team in using Python and the code, as well as the softwares packages and the algorithms to a degree.
+
+
+
+
+  Week 7: (READING WEEK: NIAMH STILL LEADER.)
+
+- Luke Citrine
   - Text here.
 
 - Luke Curran
