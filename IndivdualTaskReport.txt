@@ -1,0 +1,15 @@
+INDIVIDUAL TASK
+-
+Different visualisation types - Plots/Graphs/Charts/Maps
+Advanced use of Python packages/data visualization
+REPORT INCLUDE - 
+Detailed description and explanation of used libraries and justifications
+Insight as to why a certain approach was used with justification
+Identifying the visualisations that where created, libraries/approach used.
+Clear expressive language, provides detailed description of used libraries and justification of approach.
+
+GRAPHS
+- Bar chart (Split) - showing Average change in temperature increase by season.
+- Plot graph - Average temperature change month-on-month.
+- Two graphs: Plot graph - Difference between Land Max/Min temp.
+- Two graphs: Bar chart - Showing change in temp between years 1900 - 1909 and 1909 - 1918 (6 years).
