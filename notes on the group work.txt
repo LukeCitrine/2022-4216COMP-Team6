@@ -1,0 +1,26 @@
+Algorithm exploration optimissation and justification
+- More discussion on the algorithm now we've decided upon code structure, including pictures and flowcharts, and how the code works and is structured.
+
+The code stats off with imports, we needed to import a CSV and matplotlib to get the graphs working, after that we had to read in the file after that we made it so that the file would be read by each row, and every time it hits a column that needs to be indicated by an index, it would take that peice of data and store it into an empty list that has already been made. 
+
+Afterwhich, we used the matplotlibto import to start making the graph by setting the axxis by importing the lists on the axis, next it was to make general asthenetic to setting the style of the ticks on the style of them, and the range  and also setting the overall style of the graph itself.
+
+Concept, logical and physical
+- Additonal comments about the development process
+
+Started off with making a skeleton by making a bse graph yhat everyone could work off of or to talk about how we decided to have each  persons graph inside their own function so it could be called later, at the very bottom there is a nessary imput from the user. which means to multiple nested if sdtattements that will allow the user to select a certain (or chosen) function.
+
+Description of implementations
+- Implementations/features and why they where added, how do they match the software requirements ad out design - screenshots of code? What was implemented, why what was excluded
+
+talk about how the user is able too import an number between 1- 8 to choose the graph they want to view, talk about how to scrap the user interface because of no time, ect.
+
+Testing
+- Discussion about testing, testing tables, test distriptions and results and actions taken, including screenshots of test code. What was tested? Why was it tested and how was it tested? What was the result of the tests?
+
+during out group meetings we group tested the code, and solved, and there was no major test errors. Test table - number index, expected result, actual result, ect. Evidence of reading the rows and printing out the rows (for testign) reading th etop row of the csv file and printed out the rows, justified in making sure that the data itself is in the correct place. eg: columns missing.
+
+leaning/coclusions
+- Anything else to add in terms of conclusion in terms from a programming perspective.
+
+only new thing learnt it matplotlib, people known python on before but have learnt new aspects, already had aspects and can support other members other members no experience, lots of peer to peer help, not documented, done on own time but done oon own time to ensure they kept up and efficiently finish the group project.
