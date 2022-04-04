@@ -1,0 +1,73 @@
+Luke curran:
+
+Introduce yourself, what your experience was before the group project.
+
+-talk about finding the data set and why we settled for this data set.
+-talk about creating the skeleton, what you learned whilst finding out how to make the skeleton and how it was communicated
+to the rest of the team afterwards.
+
+- Talk about what you learned from being group leader and the responsiblities that were learned.
+
+Ethan Ibrahim:
+
+ Introduce yourself, what your experience was before the group project.
+
+- explination of the code, the reader function allows the user to select multiple graphs continuiously one after another
+- the code takes every 10th value from the csv and creates a new list which actually generates the graph
+- formatted by date, month, year
+
+- talk about newly coming to group at week 4, how it effected the group plans and what the general idea was after that.
+
+Luke citrine:
+
+Introduce yourself, what your experience was before the group project.
+
+- talk about being group leader for extra weeks due to a member no being avaliable (camreon) how it effected the group
+and what other disruptions happened because of it.
+- talk about code, and graph.
+
+Shane:
+
+Introduce yourself, what your experience was before the group project.
+
+- Talk about own code since its unique
+- Talk about what you learned from making a scatter graph. And the option to switch between the two different graphs.
+
+
+Niamh:
+
+Introduce yourself, what your experience was before the group project.
+
+- Talk about own code and graph, what was learned and why you decided to customise the graph the way you did.
+- Talk about what you learned from being group leader and the responsiblities that were learned.
+
+Laura:
+
+Introduce yourself, what your experience was before the group project.
+
+- touch on the charts that we had to sort out at the start for coding ability, team work etc
+- talk about any extra graphs, strcturing the power point
+- Talk about what you learned from being group leader and the responsiblities that were learned.
+
+
+---------------------------------------------------------------------------------------------------
+
+Presentation:
+
+first slide should show the skeleton of the code, and others edited version  next to it (much smaller though)
+
+second slide, snippit of the csv file - other ideas for the for the data (wind speed / weather data, heart medicine) then what idea we settled on which was proving global warming
+
+third slide, screenshot of working code for explination annotate (??), what went well in the code, what problems we had etc (for example the data being too compact so
+so that we had to make the code take from every 10th data set.
+
+fourth side, screen shot of shanes code, screen shot of the option selection code, what was learned as being a group leader (organising people)
+talk about troubles orginising everyone when they have different schedules.
+
+fith slide, Screen shot of graph, what the entire group learned and how EVERYONE grew and learnt new skills (make bull shit up about learning matplot, some group members learning python for the first time etc)
+what was learned from being a group leader and how it helped you understand projects.
+
+Sixth Slide, all visulaisations, graphs, the rating cards, what was learned from being a group leader, putting together and organising the power point, talk about group sturggles that happened on a week by week basis.
+
+
+fourth slide 
